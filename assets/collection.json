@@ -1,0 +1,22 @@
+{
+  "name": "Numbers Collection",
+  "symbol": "SR",
+  "description": "Collection of 10 numbers on the blockchain.",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "fNWJ8piRuZChJhrYULGiWxgNeWCN1F6FWHaHJ3vxzTn",
+        "share": 100
+      }
+    ]
+  },
+  "seller_fee_basis_points": 5
+}

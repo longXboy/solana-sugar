@@ -1,0 +1,23 @@
+{
+  "name": "8",
+  "symbol": "SR",
+  "image": "7.png",
+  "properties": {
+    "files": [{ "uri": "7.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "fNWJ8piRuZChJhrYULGiWxgNeWCN1F6FWHaHJ3vxzTn",
+        "share": 100
+      }
+    ]
+  },
+  "description": "",
+  "seller_fee_basis_points": 5,
+  "attributes": [
+    { "trait_type": "background", "value": "green" },
+    { "trait_type": "eyes", "value": "star-eyes" },
+    { "trait_type": "mouth", "value": "triangle-mouth" },
+    { "trait_type": "face", "value": "teal-face" }
+  ]
+}

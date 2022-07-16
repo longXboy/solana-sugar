@@ -1,0 +1,26 @@
+{
+  "price": 1.0,
+  "number": 10,
+  "gatekeeper": null,
+  "creators": [
+    {
+      "address": "<your_account_address>",
+      "share": 100
+    }
+  ],
+  "solTreasuryAccount": "<your_account_address>",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "02 May 2022 18:00:00 +0000",
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "uploadMethod": "bundlr",
+  "retainAuthority": true,
+  "isMutable": true,
+  "symbol": "SR",
+  "sellerFeeBasisPoints": 5,
+  "awsS3Bucket": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null
+}
